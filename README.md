@@ -7,12 +7,11 @@
 
 ## 1️⃣ Biodata
 
-- **Nama**: Wildan Haqii  
-- **NIM**: (isi NIM)
+- **Nama**: Muhammad Wildan Baihaqi
+- **NIM**: 202210370311151
 - **Program Studi**: Informatika  
-- **Konsentrasi**: Data Science  
 - **Mata Kuliah**: Pembelajaran Mesin  
-- **Jenis Tugas**: Ujian Akhir Praktikum (UAP)
+- **Tugas**: Ujian Akhir Praktikum (UAP)
 
 ---
 
