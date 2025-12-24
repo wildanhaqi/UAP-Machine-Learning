@@ -62,7 +62,7 @@ Dataset berupa ulasan pengguna aplikasi Gojek yang diperoleh dari Google Play St
 - Rating 4–5 → Positive  
 
 🔗 **Link Dataset (Google Drive):**  
-👉 [https://drive.google.com/file/d/1Fg_RoTMPgbG2sZ3WlK5HdXaFRrbLWUDB/view](https://drive.google.com/file/d/1Fg_RoTMPgbG2sZ3WlK5HdXaFRrbLWUDB/view?usp=sharing)
+👉 [(https://drive.google.com/file/d/1Fg_RoTMPgbG2sZ3WlK5HdXaFRrbLWUDB/view?usp=sharing)](https://drive.google.com/file/d/1Fg_RoTMPgbG2sZ3WlK5HdXaFRrbLWUDB/view?usp=sharing)
 
 ---
 
@@ -124,13 +124,13 @@ Evaluasi dilakukan menggunakan metrik:
 ## 8️⃣ Confusion Matrix (Hasil Kode)
 
 ### 🔹 LSTM
-![Confusion Matrix LSTM](images/cm_lstm.png)
+![Confusion Matrix LSTM](image/cm_lstm.png)
 
 ### 🔹 IndoBERT
-![Confusion Matrix IndoBERT](images/cm_indobert.png)
+![Confusion Matrix IndoBERT](image/cm_indobert.png)
 
 ### 🔹 DistilBERT
-![Confusion Matrix DistilBERT](images/cm_distilbert.png)
+![Confusion Matrix DistilBERT](image/cm_distilbert.png)
 
 Gambar confusion matrix diperoleh langsung dari visualisasi hasil prediksi model menggunakan `seaborn` dan `matplotlib`.
 
@@ -139,13 +139,13 @@ Gambar confusion matrix diperoleh langsung dari visualisasi hasil prediksi model
 ## 9️⃣ Learning Curves (Hasil Kode)
 
 ### 🔹 LSTM
-![Learning Curve LSTM](images/lc_lstm.png)
+![Learning Curve LSTM](image/lc_lstm.png)
 
 ### 🔹 IndoBERT
-![Learning Curve IndoBERT](images/lc_indobert.png)
+![Learning Curve IndoBERT](image/lc_indobert.png)
 
 ### 🔹 DistilBERT
-![Learning Curve DistilBERT](images/lc_distilbert.png)
+![Learning Curve DistilBERT](image/lc_distilbert.png)
 
 Learning curve digunakan untuk menganalisis proses konvergensi dan stabilitas training masing-masing model.
 
